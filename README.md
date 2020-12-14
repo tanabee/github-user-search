@@ -1,3 +1,7 @@
+## About
+
+You can search GitHub users by email. You need to use Google Spreadsheet and Google Apps Script.
+
 ## Usage
 
 1. Open https://docs.google.com/spreadsheets/d/1BvsAigG9ktvXbvLa9ScY656rNAkap7cgS2D_D0vlFwg/copy

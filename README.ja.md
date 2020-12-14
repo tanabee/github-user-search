@@ -1,3 +1,7 @@
+## このリポジトリについて
+
+メールアドレスから GitHub のユーザーを調べることができます。スプレッドシートと Google Apps Script を利用します。
+
 ## 使い方
 
 1. https://docs.google.com/spreadsheets/d/1BvsAigG9ktvXbvLa9ScY656rNAkap7cgS2D_D0vlFwg/copy
